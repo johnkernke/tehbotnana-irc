@@ -7,5 +7,8 @@
         "name": "John Kernke",
         "email": "john.kernke@gmail.com"
     },
-    "main": "./lib/index.js"
+    "main": "./lib/tehbotnana-irc/index.js",
+    "dependencies": {
+        "logger": "johnkernke/logger"
+    }
 }
